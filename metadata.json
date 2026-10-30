@@ -1,0 +1,6 @@
+{
+  "name": "R 探索性数据分析 WebApp 实验室 (R-EDA-lab)",
+  "description": "基于 R 语言统计哲学 (skimr/GGally/corrplot) 的探索性数据分析实验室，提供10大核心模块：探索代数、变量画像、描述统计、核密度分布、六大实战案例、R代码引擎、AI诊断随诊与报告导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
